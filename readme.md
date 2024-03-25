@@ -1,6 +1,6 @@
-# Flixx App
+# WatchWise App
 
-Flixx App is a movie information application built with vanilla JavaScript that utilizes **version 3** of the [TMDB API](https://developers.themoviedb.org/3). It provides users with access to popular movies and TV shows, detailed pages for each title, a search feature with pagination, and a slider showcasing currently playing movies in theaters. The slider functionality is powered by the [Swiper](https://swiperjs.com) library.
+WatchWise App is a movie information application built with vanilla JavaScript that utilizes **version 3** of the [TMDB API](https://developers.themoviedb.org/3). It provides users with access to popular movies and TV shows, detailed pages for each title, a search feature with pagination, and a slider showcasing currently playing movies in theaters. The slider functionality is powered by the [Swiper](https://swiperjs.com) library.
 
 ## Overview
 
@@ -15,7 +15,7 @@ This project serves as a side project developed independently, aimed at providin
 
 ## Usage
 
-To utilize the Flixx App:
+To utilize the WatchWise App:
 
 1. Clone or download the repository.
 2. Register for a free API key at [TMDB](https://www.themoviedb.org/settings/api).
